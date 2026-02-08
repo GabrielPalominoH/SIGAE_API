@@ -38,9 +38,7 @@ nul
 # Claude / IA tools
 .claude/
 
-# Maven
-.mvn/
-target/
+
 
 # IDEs
 .idea/
